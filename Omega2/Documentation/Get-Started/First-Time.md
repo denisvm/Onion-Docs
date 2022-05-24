@@ -2,7 +2,7 @@
 
 Follow along with this guide to set up your Omega2 for the first time. We'll first learn how to properly connect your Omega to a Dock and power it up. Then we'll connect to it to use the Setup Wizard to have it connect to your WiFi network and then do some updates.
 
-> If you experience issues at any point in the process, try checking our [Troublshooting guide](#first-time-troubleshooting).
+> If you experience issues at any point in the process, try checking our [Troubleshooting guide](#first-time-troubleshooting).
 
 
 <!-- Second sentence above is awkward -->
