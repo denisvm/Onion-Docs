@@ -12,7 +12,7 @@ Follow along with this guide to set up your Omega2 for the first time using the 
 1. Connecting to its command line terminal.
 1. Configuring it to join your WiFi network and then do some updates.
 
-> If you experience issues at any point in the process, try checking our [Troublshooting guide](#first-time-troubleshooting).
+> If you experience issues at any point in the process, try checking our [Troubleshooting guide](#first-time-troubleshooting).
 
 <!-- Prepare the Hardware -->
 ```{r child = './First-Time-Components/Hardware-Prep.md'}
